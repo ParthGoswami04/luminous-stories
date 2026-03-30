@@ -1,3 +1,4 @@
+//this file is created if the page shows error then 404 is shown
 import { useLocation } from "react-router-dom";
 import { useEffect } from "react";
 
