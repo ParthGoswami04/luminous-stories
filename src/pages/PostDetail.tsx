@@ -1,3 +1,4 @@
+//this is for posting the blog in the website
 import { useParams, Link } from "react-router-dom";
 import { useState } from "react";
 import { posts } from "@/lib/mockData";
